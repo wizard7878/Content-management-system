@@ -10,6 +10,7 @@ Content Management System is a RESTfull project to learn and practice Django Res
 - Adding comment feature
 - filter contents by tag, topic , title fields
 - Ability to view and update user profiles
+- Ability to bookmark your content to view it later
 - You can view other users content
 - Easy insatllation
 - ....
